@@ -24,7 +24,7 @@ class loginPage extends StatelessWidget {
               TextField(
                 decoration: InputDecoration(
                   enabledBorder: OutlineInputBorder(
-                    borderSide: BorderSide(color: Colors.white),
+                    borderSide: BorderSide(color: Colors.black),
                   ),
                   focusedBorder: OutlineInputBorder(
                      borderSide: BorderSide(color: Colors.grey),
